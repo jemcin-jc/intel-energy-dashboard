@@ -8,7 +8,7 @@ This project analyzes U.S. regional energy production using Tableau to determine
 
 ## Dashboard
 
-![Intel Energy Dashboard](dashboard.png)
+![Intel Energy Dashboard](DashBoard.png)
 
 ---
 
